@@ -1,0 +1,15 @@
+#idea folder
+.idea/
+/.idea/
+/.idea/modules.xml
+/.idea/vcs.xml
+
+nohup.out
+
+.DS_Store
+/node_modules/
+/lib/
+.bsb.lock
+.merlin
+package-lock.json
+yarn-error.log
