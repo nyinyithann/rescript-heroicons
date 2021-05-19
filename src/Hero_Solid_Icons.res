@@ -488,51 +488,51 @@ module EyeIcon = {
 
 module EyeOffIcon = {
   @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "EyeIcon"
+  external make: (~className: string=?) => React.element = "EyeOffIcon"
 }
 
 module FastForwardIcon = {
   @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "EyeIcon"
+  external make: (~className: string=?) => React.element = "FastForwardIcon"
 }
 
 module FilmIcon = {
   @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "EyeIcon"
+  external make: (~className: string=?) => React.element = "FilmIcon"
 }
 
 module FilterIcon = {
   @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "EyeIcon"
+  external make: (~className: string=?) => React.element = "FilterIcon"
 }
 
 module FingerPrintIcon = {
   @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "EyeIcon"
+  external make: (~className: string=?) => React.element = "FingerPrintIcon"
 }
 
 module FireIcon = {
   @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "EyeIcon"
+  external make: (~className: string=?) => React.element = "FireIcon"
 }
 
 module FlagIcon = {
   @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "EyeIcon"
+  external make: (~className: string=?) => React.element = "FlagIcon"
 }
 module FolderAddIcon = {
   @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "EyeIcon"
+  external make: (~className: string=?) => React.element = "FolderAddIcon"
 }
 
 module FolderDownloadIcon = {
   @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "EyeIcon"
+  external make: (~className: string=?) => React.element = "FolderDownloadIcon"
 }
 
 module FolderIcon = {
   @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "EyeIcon"
+  external make: (~className: string=?) => React.element = "FolderIcon"
 }
 
 module FolderOpenIcon = {

@@ -1,6 +1,6 @@
 {
   "name": "rescript-heroicons",
-  "version": "0.0.5",
+  "version": "0.0.1",
   "description": "ReScript binding to Heroicons",
   "author": "Nyi Nyi Than <nyinyithann@gmail.com>",
   "repository": {
