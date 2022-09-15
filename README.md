@@ -10,6 +10,7 @@ let make = () => {
   <div>
     <Solid.PaperAirplaneIcon className="w-8 h-8" />
     <Outline.PaperAirplaneIcon className="w-8 h-8" />
+    <Mini.PaperAirplaneIcon className="w-8 h-8" />
   </div>
 }
 (* w-8, h-8 are tailwind css classes.*)

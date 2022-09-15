@@ -1,1146 +1,1168 @@
 module AcademicCapIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "AcademicCapIcon"
 }
-
-module AdjustmentsIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "AdjustmentsIcon"
+module AdjustmentsHorizontalIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "AdjustmentsHorizontalIcon"
 }
-
-module AnnotationIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "AnnotationIcon"
+module AdjustmentsVerticalIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "AdjustmentsVerticalIcon"
 }
-
-module ArchiveIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "ArchiveIcon"
+module ArchiveBoxArrowDownIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "ArchiveBoxArrowDownIcon"
 }
-
-module ArrowCircleDownIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "ArrowCircleDownIcon"
+module ArchiveBoxXMarkIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "ArchiveBoxXMarkIcon"
 }
-
-module ArrowCircleLeftIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "ArrowCircleLeftIcon"
+module ArchiveBoxIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "ArchiveBoxIcon"
 }
-
-module ArrowCircleRightIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "ArrowCircleRightIcon"
+module ArrowDownCircleIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "ArrowDownCircleIcon"
 }
-
-module ArrowCircleUpIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "ArrowCircleUpIcon"
+module ArrowDownLeftIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "ArrowDownLeftIcon"
 }
-
+module ArrowDownOnSquareStackIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "ArrowDownOnSquareStackIcon"
+}
+module ArrowDownOnSquareIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "ArrowDownOnSquareIcon"
+}
+module ArrowDownRightIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "ArrowDownRightIcon"
+}
+module ArrowDownTrayIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "ArrowDownTrayIcon"
+}
 module ArrowDownIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "ArrowDownIcon"
 }
-
+module ArrowLeftCircleIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "ArrowLeftCircleIcon"
+}
+module ArrowLeftOnRectangleIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "ArrowLeftOnRectangleIcon"
+}
 module ArrowLeftIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "ArrowLeftIcon"
 }
-
-module ArrowNarrowDownIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "ArrowNarrowDownIcon"
+module ArrowLongDownIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "ArrowLongDownIcon"
 }
-
-module ArrowNarrowLeftIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "ArrowNarrowLeftIcon"
+module ArrowLongLeftIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "ArrowLongLeftIcon"
 }
-
-module ArrowNarrowRightIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "ArrowNarrowRightIcon"
+module ArrowLongRightIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "ArrowLongRightIcon"
 }
-
-module ArrowNarrowUpIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "ArrowNarrowUpIcon"
+module ArrowLongUpIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "ArrowLongUpIcon"
 }
-
+module ArrowPathRoundedSquareIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "ArrowPathRoundedSquareIcon"
+}
+module ArrowPathIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "ArrowPathIcon"
+}
+module ArrowRightCircleIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "ArrowRightCircleIcon"
+}
+module ArrowRightOnRectangleIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "ArrowRightOnRectangleIcon"
+}
 module ArrowRightIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "ArrowRightIcon"
 }
-
-module ArrowSmDownIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "ArrowSmDownIcon"
+module ArrowSmallDownIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "ArrowSmallDownIcon"
 }
-
-module ArrowSmLeftIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "ArrowSmLeftIcon"
+module ArrowSmallLeftIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "ArrowSmallLeftIcon"
 }
-
-module ArrowSmRightIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "ArrowSmRightIcon"
+module ArrowSmallRightIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "ArrowSmallRightIcon"
 }
-
-module ArrowSmUpIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "ArrowSmUpIcon"
+module ArrowSmallUpIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "ArrowSmallUpIcon"
 }
-
+module ArrowTopRightOnSquareIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "ArrowTopRightOnSquareIcon"
+}
+module ArrowTrendingDownIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "ArrowTrendingDownIcon"
+}
+module ArrowTrendingUpIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "ArrowTrendingUpIcon"
+}
+module ArrowUpCircleIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "ArrowUpCircleIcon"
+}
+module ArrowUpLeftIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "ArrowUpLeftIcon"
+}
+module ArrowUpOnSquareStackIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "ArrowUpOnSquareStackIcon"
+}
+module ArrowUpOnSquareIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "ArrowUpOnSquareIcon"
+}
+module ArrowUpRightIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "ArrowUpRightIcon"
+}
+module ArrowUpTrayIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "ArrowUpTrayIcon"
+}
 module ArrowUpIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "ArrowUpIcon"
 }
-
-module ArrowsExpandIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "ArrowsExpandIcon"
+module ArrowUturnDownIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "ArrowUturnDownIcon"
 }
-
+module ArrowUturnLeftIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "ArrowUturnLeftIcon"
+}
+module ArrowUturnRightIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "ArrowUturnRightIcon"
+}
+module ArrowUturnUpIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "ArrowUturnUpIcon"
+}
+module ArrowsPointingInIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "ArrowsPointingInIcon"
+}
+module ArrowsPointingOutIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "ArrowsPointingOutIcon"
+}
+module ArrowsRightLeftIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "ArrowsRightLeftIcon"
+}
+module ArrowsUpDownIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "ArrowsUpDownIcon"
+}
 module AtSymbolIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "AtSymbolIcon"
 }
-
 module BackspaceIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "BackspaceIcon"
 }
-module BadgeCheckIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "BadgeCheckIcon"
+module BackwardIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "BackwardIcon"
 }
-
-module BanIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "BanIcon"
+module BanknotesIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "BanknotesIcon"
+}
+module Bars2Icon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "Bars2Icon"
+}
+module Bars3BottomLeftIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "Bars3BottomLeftIcon"
+}
+module Bars3BottomRightIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "Bars3BottomRightIcon"
+}
+module Bars3CenterLeftIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "Bars3CenterLeftIcon"
+}
+module Bars3Icon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "Bars3Icon"
+}
+module Bars4Icon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "Bars4Icon"
+}
+module BarsArrowDownIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "BarsArrowDownIcon"
+}
+module BarsArrowUpIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "BarsArrowUpIcon"
+}
+module Battery0Icon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "Battery0Icon"
+}
+module Battery100Icon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "Battery100Icon"
+}
+module Battery50Icon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "Battery50Icon"
 }
 module BeakerIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "BeakerIcon"
 }
-
+module BellAlertIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "BellAlertIcon"
+}
+module BellSlashIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "BellSlashIcon"
+}
+module BellSnoozeIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "BellSnoozeIcon"
+}
 module BellIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "BellIcon"
 }
-
+module BoltSlashIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "BoltSlashIcon"
+}
+module BoltIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "BoltIcon"
+}
 module BookOpenIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "BookOpenIcon"
 }
-
-module BookmarkAltIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "BookmarkAltIcon"
+module BookmarkSlashIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "BookmarkSlashIcon"
 }
-
+module BookmarkSquareIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "BookmarkSquareIcon"
+}
 module BookmarkIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "BookmarkIcon"
 }
-
 module BriefcaseIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "BriefcaseIcon"
 }
-
+module BugAntIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "BugAntIcon"
+}
+module BuildingLibraryIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "BuildingLibraryIcon"
+}
+module BuildingOffice2Icon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "BuildingOffice2Icon"
+}
+module BuildingOfficeIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "BuildingOfficeIcon"
+}
+module BuildingStorefrontIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "BuildingStorefrontIcon"
+}
 module CakeIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "CakeIcon"
 }
-
 module CalculatorIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "CalculatorIcon"
 }
-
+module CalendarDaysIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "CalendarDaysIcon"
+}
 module CalendarIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "CalendarIcon"
 }
-
 module CameraIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "CameraIcon"
 }
-
-module CashIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "CashIcon"
+module ChartBarSquareIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "ChartBarSquareIcon"
 }
-
 module ChartBarIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "ChartBarIcon"
 }
-
 module ChartPieIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "ChartPieIcon"
 }
-
-module ChartSquareBarIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "ChartSquareBarIcon"
+module ChatBubbleBottomCenterTextIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "ChatBubbleBottomCenterTextIcon"
 }
-
-module ChatAlt2Icon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "ChatAlt2Icon"
+module ChatBubbleBottomCenterIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "ChatBubbleBottomCenterIcon"
 }
-
-module ChatAltIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "ChatAltIcon"
+module ChatBubbleLeftEllipsisIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "ChatBubbleLeftEllipsisIcon"
 }
-
-module ChatIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "ChatIcon"
+module ChatBubbleLeftRightIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "ChatBubbleLeftRightIcon"
 }
-
+module ChatBubbleLeftIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "ChatBubbleLeftIcon"
+}
+module ChatBubbleOvalLeftEllipsisIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "ChatBubbleOvalLeftEllipsisIcon"
+}
+module ChatBubbleOvalLeftIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "ChatBubbleOvalLeftIcon"
+}
+module CheckBadgeIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "CheckBadgeIcon"
+}
 module CheckCircleIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "CheckCircleIcon"
 }
-
 module CheckIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "CheckIcon"
 }
-
 module ChevronDoubleDownIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "ChevronDoubleDownIcon"
 }
-
 module ChevronDoubleLeftIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "ChevronDoubleLeftIcon"
 }
-
 module ChevronDoubleRightIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "ChevronDoubleRightIcon"
 }
-
 module ChevronDoubleUpIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "ChevronDoubleUpIcon"
 }
-
 module ChevronDownIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "ChevronDownIcon"
 }
-
 module ChevronLeftIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "ChevronLeftIcon"
 }
-
 module ChevronRightIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "ChevronRightIcon"
 }
-
+module ChevronUpDownIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "ChevronUpDownIcon"
+}
 module ChevronUpIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "ChevronUpIcon"
 }
-
-module ChipIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "ChipIcon"
+module CircleStackIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "CircleStackIcon"
 }
-
-module ClipboardCheckIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "ClipboardCheckIcon"
+module ClipboardDocumentCheckIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "ClipboardDocumentCheckIcon"
 }
-
-module ClipboardCopyIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "ClipboardCopyIcon"
+module ClipboardDocumentListIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "ClipboardDocumentListIcon"
 }
-
+module ClipboardDocumentIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "ClipboardDocumentIcon"
+}
 module ClipboardIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "ClipboardIcon"
 }
-
-module ClipboardListIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "ClipboardListIcon"
-}
-
 module ClockIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "ClockIcon"
 }
-
-module CloudDownloadIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "CloudDownloadIcon"
+module CloudArrowDownIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "CloudArrowDownIcon"
 }
-
+module CloudArrowUpIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "CloudArrowUpIcon"
+}
 module CloudIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "CloudIcon"
 }
-
-module CloudUploadIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "CloudUploadIcon"
+module CodeBracketSquareIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "CodeBracketSquareIcon"
 }
-
-module CodeIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "CodeIcon"
+module CodeBracketIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "CodeBracketIcon"
 }
-
+module Cog6ToothIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "Cog6ToothIcon"
+}
+module Cog8ToothIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "Cog8ToothIcon"
+}
 module CogIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "CogIcon"
 }
-
-module CollectionIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "CollectionIcon"
+module CommandLineIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "CommandLineIcon"
 }
-
-module ColorSwatchIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "ColorSwatchIcon"
+module ComputerDesktopIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "ComputerDesktopIcon"
 }
-
+module CpuChipIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "CpuChipIcon"
+}
 module CreditCardIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "CreditCardIcon"
 }
-
-module CubeIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "CubeIcon"
-}
-
 module CubeTransparentIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "CubeTransparentIcon"
 }
-
+module CubeIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "CubeIcon"
+}
 module CurrencyBangladeshiIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "CurrencyBangladeshiIcon"
 }
-
 module CurrencyDollarIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "CurrencyDollarIcon"
 }
-
 module CurrencyEuroIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "CurrencyEuroIcon"
 }
-
 module CurrencyPoundIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "CurrencyPoundIcon"
 }
-
 module CurrencyRupeeIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "CurrencyRupeeIcon"
 }
-
 module CurrencyYenIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "CurrencyYenIcon"
 }
-
-module CursorClickIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "CursorClickIcon"
+module CursorArrowRaysIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "CursorArrowRaysIcon"
 }
-
-module DatabaseIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "DatabaseIcon"
+module CursorArrowRippleIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "CursorArrowRippleIcon"
 }
-
-module DesktopComputerIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "DesktopComputerIcon"
+module DevicePhoneMobileIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "DevicePhoneMobileIcon"
 }
-
-module DeviceMobileIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "DeviceMobileIcon"
-}
-
 module DeviceTabletIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "DeviceTabletIcon"
 }
-
-module DocumentAddIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "DocumentAddIcon"
+module DocumentArrowDownIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "DocumentArrowDownIcon"
 }
-
-module DocumentDownloadIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "DocumentDownloadIcon"
+module DocumentArrowUpIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "DocumentArrowUpIcon"
 }
-
+module DocumentChartBarIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "DocumentChartBarIcon"
+}
+module DocumentCheckIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "DocumentCheckIcon"
+}
 module DocumentDuplicateIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "DocumentDuplicateIcon"
 }
-
-module DocumentIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "DocumentIcon"
+module DocumentMagnifyingGlassIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "DocumentMagnifyingGlassIcon"
 }
-
-module DocumentRemoveIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "DocumentRemoveIcon"
+module DocumentMinusIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "DocumentMinusIcon"
 }
-
-module DocumentReportIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "DocumentReportIcon"
+module DocumentPlusIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "DocumentPlusIcon"
 }
-
-module DocumentSearchIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "DocumentSearchIcon"
-}
-
 module DocumentTextIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "DocumentTextIcon"
 }
-
-module DotsCircleHorizontalIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "DotsCircleHorizontalIcon"
+module DocumentIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "DocumentIcon"
 }
-
-module DotsHorizontalIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "DotsHorizontalIcon"
+module EllipsisHorizontalCircleIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "EllipsisHorizontalCircleIcon"
 }
-
-module DotsVerticalIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "DotsVerticalIcon"
+module EllipsisHorizontalIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "EllipsisHorizontalIcon"
 }
-
-module DownloadIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "DownloadIcon"
+module EllipsisVerticalIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "EllipsisVerticalIcon"
 }
-
-module DuplicateIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "DuplicateIcon"
+module EnvelopeOpenIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "EnvelopeOpenIcon"
 }
-
-module EmojiHappyIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "EmojiHappyIcon"
+module EnvelopeIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "EnvelopeIcon"
 }
-
-module EmojiSadIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "EmojiSadIcon"
-}
-
 module ExclamationCircleIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "ExclamationCircleIcon"
 }
-
-module ExclamationIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "ExclamationIcon"
+module ExclamationTriangleIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "ExclamationTriangleIcon"
 }
-
-module ExternalLinkIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "ExternalLinkIcon"
+module EyeDropperIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "EyeDropperIcon"
 }
-
+module EyeSlashIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "EyeSlashIcon"
+}
 module EyeIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "EyeIcon"
 }
-
-module EyeOffIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "EyeOffIcon"
+module FaceFrownIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "FaceFrownIcon"
 }
-
-module FastForwardIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "FastForwardIcon"
+module FaceSmileIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "FaceSmileIcon"
 }
-
 module FilmIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "FilmIcon"
 }
-
-module FilterIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "FilterIcon"
-}
-
 module FingerPrintIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "FingerPrintIcon"
 }
-
 module FireIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "FireIcon"
 }
-
 module FlagIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "FlagIcon"
 }
-module FolderAddIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "FolderAddIcon"
+module FolderArrowDownIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "FolderArrowDownIcon"
 }
-
-module FolderDownloadIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "FolderDownloadIcon"
+module FolderMinusIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "FolderMinusIcon"
 }
-
-module FolderIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "FolderIcon"
-}
-
 module FolderOpenIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "FolderOpenIcon"
 }
-
-module FolderRemoveIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "FolderRemoveIcon"
+module FolderPlusIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "FolderPlusIcon"
 }
-
+module FolderIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "FolderIcon"
+}
+module ForwardIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "ForwardIcon"
+}
+module FunnelIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "FunnelIcon"
+}
+module GifIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "GifIcon"
+}
+module GiftTopIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "GiftTopIcon"
+}
 module GiftIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "GiftIcon"
 }
-
 module GlobeAltIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "GlobeAltIcon"
 }
-
-module GlobeIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "GlobeIcon"
+module GlobeAmericasIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "GlobeAmericasIcon"
 }
-
-module HandIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "HandIcon"
+module GlobeAsiaAustraliaIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "GlobeAsiaAustraliaIcon"
 }
-
+module GlobeEuropeAfricaIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "GlobeEuropeAfricaIcon"
+}
+module HandRaisedIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "HandRaisedIcon"
+}
+module HandThumbDownIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "HandThumbDownIcon"
+}
+module HandThumbUpIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "HandThumbUpIcon"
+}
 module HashtagIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "HashtagIcon"
 }
-
 module HeartIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "HeartIcon"
 }
-
+module HomeModernIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "HomeModernIcon"
+}
 module HomeIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "HomeIcon"
 }
-
 module IdentificationIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "IdentificationIcon"
 }
-
+module InboxArrowDownIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "InboxArrowDownIcon"
+}
+module InboxStackIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "InboxStackIcon"
+}
 module InboxIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "InboxIcon"
 }
-
-module InboxInIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "InboxInIcon"
-}
-
 module InformationCircleIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "InformationCircleIcon"
 }
-
 module KeyIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "KeyIcon"
 }
-
-module LibraryIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "LibraryIcon"
+module LanguageIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "LanguageIcon"
 }
-
+module LifebuoyIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "LifebuoyIcon"
+}
 module LightBulbIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "LightBulbIcon"
 }
-
-module LightningBoltIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "LightningBoltIcon"
-}
-
 module LinkIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "LinkIcon"
 }
-
-module LocationMarkerIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "LocationMarkerIcon"
+module ListBulletIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "ListBulletIcon"
 }
-
 module LockClosedIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "LockClosedIcon"
 }
-
 module LockOpenIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "LockOpenIcon"
 }
-
-module LoginIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "LoginIcon"
+module MagnifyingGlassCircleIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "MagnifyingGlassCircleIcon"
 }
-
-module LogoutIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "LogoutIcon"
+module MagnifyingGlassMinusIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "MagnifyingGlassMinusIcon"
 }
-
-module MailIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "MailIcon"
+module MagnifyingGlassPlusIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "MagnifyingGlassPlusIcon"
 }
-
-module MailOpenIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "MailOpenIcon"
+module MagnifyingGlassIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "MagnifyingGlassIcon"
 }
-
+module MapPinIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "MapPinIcon"
+}
 module MapIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "MapIcon"
 }
-
-module MenuAlt1Icon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "MenuAlt1Icon"
+module MegaphoneIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "MegaphoneIcon"
 }
-
-module MenuAlt2Icon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "MenuAlt2Icon"
-}
-
-module MenuAlt3Icon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "MenuAlt3Icon"
-}
-
-module MenuAlt4Icon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "MenuAlt4Icon"
-}
-
-module MenuIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "MenuIcon"
-}
-
 module MicrophoneIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "MicrophoneIcon"
 }
-
 module MinusCircleIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "MinusCircleIcon"
 }
-
+module MinusSmallIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "MinusSmallIcon"
+}
 module MinusIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "MinusIcon"
 }
-
-module MinusSmIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "MinusSmIcon"
-}
-
 module MoonIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "MoonIcon"
 }
-
-module MusicNoteIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "MusicNoteIcon"
+module MusicalNoteIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "MusicalNoteIcon"
 }
-
 module NewspaperIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "NewspaperIcon"
 }
-
-module OfficeBuildingIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "OfficeBuildingIcon"
+module NoSymbolIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "NoSymbolIcon"
 }
-
+module PaintBrushIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "PaintBrushIcon"
+}
 module PaperAirplaneIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "PaperAirplaneIcon"
 }
-
 module PaperClipIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "PaperClipIcon"
 }
-
+module PauseCircleIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "PauseCircleIcon"
+}
 module PauseIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "PauseIcon"
 }
-
-module PencilAltIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "PencilAltIcon"
+module PencilSquareIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "PencilSquareIcon"
 }
-
 module PencilIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "PencilIcon"
 }
-
+module PhoneArrowDownLeftIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "PhoneArrowDownLeftIcon"
+}
+module PhoneArrowUpRightIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "PhoneArrowUpRightIcon"
+}
+module PhoneXMarkIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "PhoneXMarkIcon"
+}
 module PhoneIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "PhoneIcon"
 }
-
-module PhoneIncomingIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "PhoneIncomingIcon"
+module PhotoIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "PhotoIcon"
 }
-
-module PhoneMissedCallIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "PhoneMissedCallIcon"
+module PlayCircleIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "PlayCircleIcon"
 }
-
-module PhoneOutgoingIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "PhoneOutgoingIcon"
+module PlayPauseIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "PlayPauseIcon"
 }
-
-module PhotographIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "PhotographIcon"
-}
-
 module PlayIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "PlayIcon"
 }
-
 module PlusCircleIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "PlusCircleIcon"
 }
-
+module PlusSmallIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "PlusSmallIcon"
+}
 module PlusIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "PlusIcon"
 }
-
-module PlusSmIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "PlusSmIcon"
+module PowerIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "PowerIcon"
 }
-
 module PresentationChartBarIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "PresentationChartBarIcon"
 }
-
 module PresentationChartLineIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "PresentationChartLineIcon"
 }
-
 module PrinterIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "PrinterIcon"
 }
-
-module PuzzleIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "PuzzleIcon"
+module PuzzlePieceIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "PuzzlePieceIcon"
 }
-
-module QrcodeIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "QrcodeIcon"
+module QrCodeIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "QrCodeIcon"
 }
-
 module QuestionMarkCircleIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "QuestionMarkCircleIcon"
 }
-
+module QueueListIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "QueueListIcon"
+}
+module RadioIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "RadioIcon"
+}
+module ReceiptPercentIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "ReceiptPercentIcon"
+}
 module ReceiptRefundIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "ReceiptRefundIcon"
 }
-
-module ReceiptTaxIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "ReceiptTaxIcon"
+module RectangleGroupIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "RectangleGroupIcon"
 }
-
-module RefreshIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "RefreshIcon"
+module RectangleStackIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "RectangleStackIcon"
 }
-
-module ReplyIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "ReplyIcon"
+module RocketLaunchIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "RocketLaunchIcon"
 }
-
-module RewindIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "RewindIcon"
-}
-
 module RssIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "RssIcon"
 }
-
-module SaveAsIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "SaveAsIcon"
-}
-
-module SaveIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "SaveIcon"
-}
-
 module ScaleIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "ScaleIcon"
 }
-
 module ScissorsIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "ScissorsIcon"
 }
-
-module SearchCircleIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "SearchCircleIcon"
+module ServerStackIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "ServerStackIcon"
 }
-
-module SearchIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "SearchIcon"
-}
-
-module SelectorIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "SelectorIcon"
-}
-
 module ServerIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "ServerIcon"
 }
-
 module ShareIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "ShareIcon"
 }
-
 module ShieldCheckIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "ShieldCheckIcon"
 }
-
 module ShieldExclamationIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "ShieldExclamationIcon"
 }
-
 module ShoppingBagIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "ShoppingBagIcon"
 }
-
 module ShoppingCartIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "ShoppingCartIcon"
 }
-
-module SortAscendingIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "SortAscendingIcon"
+module SignalSlashIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "SignalSlashIcon"
 }
-
-module SortDescendingIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "SortDescendingIcon"
+module SignalIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "SignalIcon"
 }
-
 module SparklesIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "SparklesIcon"
 }
-
-module SpeakerphoneIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "SpeakerphoneIcon"
+module SpeakerWaveIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "SpeakerWaveIcon"
 }
-
+module SpeakerXMarkIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "SpeakerXMarkIcon"
+}
+module Square2StackIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "Square2StackIcon"
+}
+module Square3Stack3dIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "Square3Stack3dIcon"
+}
+module Squares2x2Icon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "Squares2x2Icon"
+}
+module SquaresPlusIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "SquaresPlusIcon"
+}
 module StarIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "StarIcon"
 }
-
-module StatusOfflineIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "StatusOfflineIcon"
+module StopCircleIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "StopCircleIcon"
 }
-
-module StatusOnlineIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "StatusOnlineIcon"
-}
-
 module StopIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "StopIcon"
 }
-
 module SunIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "SunIcon"
 }
-
-module SupportIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "SupportIcon"
+module SwatchIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "SwatchIcon"
 }
-
-module SwitchHorizontalIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "SwitchHorizontalIcon"
+module TableCellsIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "TableCellsIcon"
 }
-
-module SwitchVerticalIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "SwitchVerticalIcon"
-}
-
-module TableIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "TableIcon"
-}
-
 module TagIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "TagIcon"
 }
-
-module TemplateIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "TemplateIcon"
-}
-
-module TerminalIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "TerminalIcon"
-}
-
-module ThumbDownIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "ThumbDownIcon"
-}
-
-module ThumbUpIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "ThumbUpIcon"
-}
-
 module TicketIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "TicketIcon"
 }
-
-module TranslateIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "TranslateIcon"
-}
-
 module TrashIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "TrashIcon"
 }
-
-module TrendingDownIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "TrendingDownIcon"
+module TrophyIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "TrophyIcon"
 }
-
-module TrendingUpIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "TrendingUpIcon"
-}
-
 module TruckIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "TruckIcon"
 }
-
-module UploadIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "UploadIcon"
+module TvIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "TvIcon"
 }
-
-module UserAddIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "UserAddIcon"
-}
-
 module UserCircleIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "UserCircleIcon"
 }
-
 module UserGroupIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "UserGroupIcon"
 }
-
+module UserMinusIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "UserMinusIcon"
+}
+module UserPlusIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "UserPlusIcon"
+}
 module UserIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "UserIcon"
 }
-
-module UserRemoveIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "UserRemoveIcon"
-}
-
 module UsersIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "UsersIcon"
 }
-
 module VariableIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "VariableIcon"
 }
-
+module VideoCameraSlashIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "VideoCameraSlashIcon"
+}
 module VideoCameraIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "VideoCameraIcon"
 }
-
-module ViewBoardsIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "ViewBoardsIcon"
+module ViewColumnsIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "ViewColumnsIcon"
 }
-
-module ViewGridAddIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "ViewGridAddIcon"
+module ViewfinderCircleIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "ViewfinderCircleIcon"
 }
-
-module ViewGridIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "ViewGridIcon"
+module WalletIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "WalletIcon"
 }
-
-module ViewListIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "ViewListIcon"
-}
-
-module VolumeOffIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "VolumeOffIcon"
-}
-
-module VolumeUpIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "VolumeUpIcon"
-}
-
 module WifiIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "WifiIcon"
 }
-
+module WindowIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "WindowIcon"
+}
+module WrenchScrewdriverIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "WrenchScrewdriverIcon"
+}
+module WrenchIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "WrenchIcon"
+}
 module XCircleIcon = {
-  @module("@heroicons/react/solid") @react.component
+  @module("@heroicons/react/24/solid") @react.component
   external make: (~className: string=?) => React.element = "XCircleIcon"
 }
-
-module XIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "XIcon"
-}
-
-module ZoomInIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "ZoomInIcon"
-}
-
-module ZoomOutIcon = {
-  @module("@heroicons/react/solid") @react.component
-  external make: (~className: string=?) => React.element = "ZoomOutIcon"
+module XMarkIcon = {
+  @module("@heroicons/react/24/solid") @react.component
+  external make: (~className: string=?) => React.element = "XMarkIcon"
 }
